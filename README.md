@@ -8,7 +8,7 @@ Latest version of SpaCy is not supportive to these codes.So for code implementat
 !python -m spacy download nl
 !pip install pyldavis
 
-# Aout the result:
+# About the result:
      1.Trained Model doing fine with locating entities which is required for high priority idea about the resume holders.
 ![image](https://user-images.githubusercontent.com/82649993/123547539-d1c2fc80-d77e-11eb-97f2-5acb26700ac0.png)
 
