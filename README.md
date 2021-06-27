@@ -13,4 +13,4 @@
      2.But Model is not showing outstanding performance for the resumes which are framed with high complex layouts and toomuch of data for a page.ie.dissimilar to the resume data what has been used for training.
 ![image](https://user-images.githubusercontent.com/82649993/123547611-1c447900-d77f-11eb-97c9-8b73ce682cf1.png)
 
-# paCy Advanced Transformer model based codes could be solving similar issues with delicately.
+# SpaCy Advanced Transformer model based codes could be solving similar issues with delicately.
