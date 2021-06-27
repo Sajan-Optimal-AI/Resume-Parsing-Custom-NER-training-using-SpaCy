@@ -17,3 +17,5 @@ Latest version of SpaCy is not supportive to these codes.So for code implementat
 ![image](https://user-images.githubusercontent.com/82649993/123547611-1c447900-d77f-11eb-97c9-8b73ce682cf1.png)
 
 # SpaCy Advanced Transformer model based codes could be solving similar issues with delicately.
+# All credits goes to "KGP Talkie" Yotube Channel exclusively for Natural Language Processing basics.
+  https://kgptalkie.com/resume-and-cv-summarization
